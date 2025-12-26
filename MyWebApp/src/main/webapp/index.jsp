@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>Hello World!</h2>
+<h2>We are testing Java Web App into Tomcat using Github Actions!</h2>
 </body>
 </html>
